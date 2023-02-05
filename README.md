@@ -41,7 +41,7 @@ bash silent-couscous/silent-sec.sh
 ```
 
 > This assumes you have cloned the git repo and you have this 'silent-couscous' directory which is the repo's name. 
-> If you have just paste the code and into a file and that's located in the same directory, don't use the folder just run the file.
+> If you just pasted the code into a file and that's located in the same directory, don't use the folder just run the file.
 
 Wait a few seconds, especially if there are a lot of files (you probabaly should test this with few files first).
 Now all your files should have 3 seconds of silent extra at beginning and end. You can change the amount of seconds to your need.
